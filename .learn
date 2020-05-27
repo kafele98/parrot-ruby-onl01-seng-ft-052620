@@ -6,8 +6,3 @@ languages:
   - ruby
 resources: 1
 
-def parrot(string="Squawk!")
-  puts "#{string}"
-  "#{string}"
-end
-
